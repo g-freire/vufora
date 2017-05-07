@@ -1,2 +1,2 @@
 # Unity Vuforia Assets
-#.obj created using Autodesk Fusion360 
+## .obj created using Autodesk Fusion360 
